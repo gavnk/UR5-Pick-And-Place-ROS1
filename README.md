@@ -10,6 +10,6 @@
 8. in one terminal go to scripts folder in ur5_moveit package
 9. Run script main 'python3 main.py'
 
-![Uploading Screenshot from 2024-09-23 16-24-54.png…]()
+![Screenshot from 2024-09-23 16-24-54](https://github.com/user-attachments/assets/dd2fbc95-3d42-4127-adc2-a86f13facf2a)
 
    
