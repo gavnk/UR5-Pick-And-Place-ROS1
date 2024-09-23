@@ -1,0 +1,2 @@
+set(object_msgs_MESSAGE_FILES "/home/gvnk/ros1_ur5_arm_project_ws/src/general-message-pkgs/object_msgs/msg/Object.msg;/home/gvnk/ros1_ur5_arm_project_ws/src/general-message-pkgs/object_msgs/msg/ObjectPose.msg")
+set(object_msgs_SERVICE_FILES "/home/gvnk/ros1_ur5_arm_project_ws/src/general-message-pkgs/object_msgs/srv/ObjectInfo.srv;/home/gvnk/ros1_ur5_arm_project_ws/src/general-message-pkgs/object_msgs/srv/RegisterObject.srv")

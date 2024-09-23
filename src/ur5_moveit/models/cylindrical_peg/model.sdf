@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="cylindrical_peg">
+    <static>false</static>
+    <link name="link">
+      <pose>0 0 0.0 0 0 0</pose>
+      <!-- Mass and Inertia properties -->
+      <inertial>
+        <mass>1.0</mass> <!-- Adjust the mass to match your model -->
+        <inertia>
+          <!-- Adjust these values based on the actual physical properties of your model -->
+          <ixx>0.1</ixx>
+          <ixy>0.0</ixy>
+          <ixz>0.0</ixz>
+          <iyy>0.1</iyy>
+          <iyz>0.0</iyz>
+          <izz>0.1</izz>
+        </inertia>
+      </inertial>
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://cylindrical_peg/meshes/cylindricall_peg.obj</uri>
+            <scale>1 1 1</scale>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://cylindrical_peg/meshes/cylindricall_peg.obj</uri>
+            <scale>1 1 1</scale>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>

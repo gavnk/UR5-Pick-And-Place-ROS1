@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: interbotix_xsarm_descriptions
+    relative_path: urdf/ur5robot.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/universal-robot-ur5.srdf
+  CONFIG:
+    author_name: Sunny Katyara
+    author_email: sunny.katyara@mu.ie
+    generated_timestamp: 1698854591

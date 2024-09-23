@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gvnk/ros1_ur5_arm_project_ws/devel/setup.sh

@@ -1,0 +1,12 @@
+<library path="src">
+  <class name="MyRQTPlugin" type="my_rqt_plugin.my_plugin.MyPlugin" base_class_type="rqt_gui_py.plugin.Plugin">
+    <description>IMR User Interface.</description>
+    <qtgui>
+      <group>
+        <label>Drawing</label>
+        <icon type="theme">system-run</icon>
+      </group>
+    </qtgui>
+  </class>
+</library>
+

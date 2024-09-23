@@ -1,0 +1,2 @@
+Materials/interbotix_xsarm_descriptions:gazebo-pkgs/gazebo_grasp_plugin:gazebo-pkgs/gazebo_grasp_plugin_ros:gazebo-pkgs/gazebo_state_plugins:gazebo-pkgs/gazebo_test_tools:gazebo-pkgs/gazebo_version_helpers:gazebo-pkgs/gazebo_world_plugin_loader:general-message-pkgs/object_msgs:general-message-pkgs/object_msgs_tools:general-message-pkgs/path_navigation_msgs:ur5_moveit
+-DCATKIN_DEVEL_PREFIX=/home/gvnk/ros1_ur5_arm_project_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gvnk/ros1_ur5_arm_project_ws/install -G Unix Makefiles
