@@ -10,6 +10,7 @@
 8. In anothor terminal go to scripts folder in ur5_moveit package
 9. Run script main 'python3 main.py'
 
-![Screenshot from 2024-09-23 16-24-54](https://github.com/user-attachments/assets/dd2fbc95-3d42-4127-adc2-a86f13facf2a)
+![Screenshot from 2024-09-23 16-24-52](https://github.com/user-attachments/assets/55b7154a-a06e-4c98-aff2-a83aba658158)
+
 
    
