@@ -6,8 +6,8 @@
 4. Build with: catkin_make
 5. Open two terminator terminals
 6. source workspace: source devel/setup.bash
-7. launch with 'roslaunch demo_gazebo.launch'
-8. in one terminal go to scripts folder in ur5_moveit package
+7. launch with 'roslaunch ur5_moveit demo_gazebo.launch'
+8. In anothor terminal go to scripts folder in ur5_moveit package
 9. Run script main 'python3 main.py'
 
 ![Screenshot from 2024-09-23 16-24-54](https://github.com/user-attachments/assets/dd2fbc95-3d42-4127-adc2-a86f13facf2a)
