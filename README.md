@@ -1,6 +1,6 @@
 # UR5 ROS1 MoveIt Pick And Place Project
 
-This project used ROS1 Noetic on a machine running Ubuntu 20.04.
+*This project used ROS1 Noetic on a machine running Ubuntu 20.04.*
 
 1. create a new workspace e.g mkdir ur5_project_ws
 2. cd ur5_project_ws
