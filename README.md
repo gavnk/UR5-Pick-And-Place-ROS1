@@ -1,7 +1,7 @@
 # UR5 ROS1 MoveIt Pick And Place Project
 ## Description: 
 ###This project used ROS1 Noetic on a machine running Ubuntu 20.04.
-You will have to install ROS1 Noetic on Ubuntu 20.04 if you don't already for this project to work.###
+You will have to install ROS1 Noetic on Ubuntu 20.04 if you don't already for this project to work.
 Everything else is contained within this repo.
 
 ### How to set up and run:
