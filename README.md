@@ -4,7 +4,10 @@
 You will have to install ROS1 Noetic on Ubuntu 20.04 if you don't already for this project to work.
 Everything else is contained within this repo.
 
+The `main.py` file contains the code for performing the pick & place operation
+
 ### How to set up and run:
+After installing ROS on Ubuntu 20.04, do the following:
 1. create a new workspace e.g `mkdir ur5_project_ws`
 2. `cd ur5_project_ws`
 3. clone the src folder of this repo into the folder
