@@ -18,7 +18,7 @@ After installing ROS on Ubuntu 20.04, do the following:
 5. Open two terminator terminals
 6. source workspace: `source devel/setup.bash`
 7. launch with `roslaunch ur5_moveit demo_gazebo.launch`
-8. In anothor terminal go to scripts folder in ur5_moveit package
+8. In another terminal go to scripts folder in ur5_moveit package
 9. Run script main `python3 main.py`
 
 ![Screenshot from 2024-09-23 16-24-52](https://github.com/user-attachments/assets/55b7154a-a06e-4c98-aff2-a83aba658158)
