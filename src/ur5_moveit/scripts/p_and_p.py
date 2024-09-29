@@ -111,7 +111,7 @@ class Movements:
 
     # Joint Space end
 
-    # this function prints about the pose (position and orientation), and the joint values
+    # this function prints out the pose (position and orientation), and the joint values
     def print_text(self):
         # Get the current pose of the end effector
         end_effector_pose = self.group.get_current_pose().pose
